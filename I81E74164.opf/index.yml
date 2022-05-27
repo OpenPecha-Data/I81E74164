@@ -1,0 +1,9 @@
+id: 03e1f50516db4d4ea2d12d9c49249b0e
+annotation_type: index
+revision: '00001'
+annotations:
+  813856bb89ea4dc7a47aceac5dac81da:
+    base: f5C49.txt
+    span:
+      start: 0
+      end: 24402
